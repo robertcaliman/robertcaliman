@@ -19,7 +19,7 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px>
 
-- :office: I am currently working as a `Junior Software Engineer`.
+- :office: I am currently working as a `Software Engineer`.
 - :mortar_board: I have a bachelor degree in `Microelectronics, Optoelectrinics and Nanotechnologies` and a master degree in `Computer Vision`.
 - :art: **Hobbies:** Watching anime series, movies, TV series. I love tech-related stuff and I have decent knowledge regarding `computers`. I also like playing footbal and running.
 - :seedling: Currently, I'm expanding my knowledge across a variety of topics and trying to learn more about tools/frameworks that I use day by day.
@@ -52,6 +52,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vsphere/vsphere-original.svg" title="vSphere" alt="vSphere" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  
 </div>
 
 ---
@@ -62,7 +64,7 @@
 </div>
 
 ---
-_Disclaimer: All of the languages/tools listed above are the ones that i came in contact with during university courses and at my job. I know that I'am not even close to being proficient on most of them but I still chose to showcase them here. I started learning more on some of them and hope that I can soon say that I have enough knowledge on them_
+_Disclaimer: All of the languages/tools listed above are the ones that I had contact with during university courses and at my job.
 
 ----------
 
