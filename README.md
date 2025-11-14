@@ -64,7 +64,7 @@
 </div>
 
 ---
-_Disclaimer: All of the languages/tools listed above are the ones that I had contact with during university courses and at my job.
+_Disclaimer: All of the languages/tools listed above are the ones that I had contact with during university courses and at my job._
 
 ----------
 
